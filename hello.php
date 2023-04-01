@@ -8,7 +8,6 @@
 </head>
 <body>
     <?php
-        echo("conflict");
         echo("Sửa cái này mà ko thêm file mới");
     ?>
 </body>
