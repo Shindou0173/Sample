@@ -8,7 +8,7 @@
 </head>
 <body>
     <?php
-        echo('Xin chao');
+        echo("conflict");
     ?>
 </body>
 </html>
