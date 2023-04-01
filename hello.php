@@ -9,6 +9,7 @@
 <body>
     <?php
         echo('Xin chao');
+        echo("Sửa cái này mà ko thêm file mới");
     ?>
 </body>
 </html>
